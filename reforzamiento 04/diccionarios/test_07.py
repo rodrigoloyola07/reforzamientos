@@ -9,5 +9,3 @@ Finalmente mostrarás los alumnos con sus notas en un mensaje similar a
 """
 
 lista = {}
-
-for nombre in range():
